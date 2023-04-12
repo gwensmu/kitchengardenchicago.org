@@ -1,0 +1,8 @@
+{
+  "short_name": "Kitchen Garden Chicago",
+  "name": "Kitchen Garden Chicago",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
